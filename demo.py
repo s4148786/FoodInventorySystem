@@ -4,7 +4,7 @@ Demo script to showcase Food Inventory System functionality.
 """
 from food_inventory_system import FoodInventorySystem
 
-
+# Change to trigger commit
 def main():
     print("="*60)
     print("FOOD INVENTORY SYSTEM - DEMO")
